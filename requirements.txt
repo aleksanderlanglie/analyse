@@ -2,3 +2,4 @@ streamlit
 streamlit-aggrid
 pandas
 xlsxwriter
+streamlit_authenticator
