@@ -15,3 +15,4 @@ authenticator = stauth.Authenticate(
     config['pre-authorized']
 )
 
+authenticator.login()
