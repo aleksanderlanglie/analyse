@@ -1,0 +1,13 @@
+credentials:
+  usernames:
+    pegasuskontroll:
+      email: pk@pk.no
+      name: Pegasus Kontroll
+      password: 999
+cookie:
+  expiry_days: 30
+  key: abc
+  name: streamlit
+preauthorized:
+  emails:
+  - aleksanderlanglie@outlook.com
